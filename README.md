@@ -77,6 +77,7 @@ A powerful web application that transcribes meeting audio or pasted transcripts 
 ## 📈 GitHub Stats
 
 ![Srishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srishtikumari510&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srishtikumari510&layout=compact&theme=radical)
 
 ---

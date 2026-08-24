@@ -88,8 +88,11 @@ I'm always open to collaborating on interesting projects or discussing technolog
 
 *   **Portfolio:** [https://srishtikumari510.github.io/Hii_Myself_SRISHTI/](https://srishtikumari510.github.io/Hii_Myself_SRISHTI/)
 *   **GitHub:** [https://github.com/Srishtikumari510](https://github.com/Srishtikumari510)
-*   **LinkedIn:** [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
-*   **LeetCode:** [YOUR_LEETCODE_URL](YOUR_LEETCODE_URL)
+*   **LinkedIn:** [YOUR_LINKEDIN_URL](www.linkedin.com/in/srishti-kumari-335b67252)
+*   **LeetCode:** [YOUR_LEETCODE_URL](https://leetcode.com/u/srishtikumari510/)
+*   **CodeForce:** [YOUR_LEETCODE_URL](https://codeforces.com/profile/srishti_kumari)
+
+  
 
 ---
 

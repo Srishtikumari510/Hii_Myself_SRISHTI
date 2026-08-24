@@ -48,11 +48,14 @@ Here are some of the key projects I've built and deployed:
 **Tech:** Python · YOLO · Streamlit
 An intelligent web application that identifies food from an uploaded image and calculates its nutritional content (calories, protein, carbs, fat) based on user-provided weight.
 *   [GitHub Repository](https://github.com/Srishtikumari510/NutriScan-AI)
+*   🚀 Live App: [nutrivision-ai.streamlit.app](https://lntcnd8plgtvssafx7dvrq.streamlit.app/)  
 
 ### 🌧️ Rain_Rain_When_will_u_come – Weather & Activity Predictor
 **Tech:** Python · Machine Learning · Streamlit
 A Gen-Z focused weather prediction app that uses Machine Learning to forecast rain and recommends outfits, music, movies, and activities based on the conditions.
 *   [GitHub Repository](https://github.com/Srishtikumari510/Rain_Rain_When_will_u_come)
+*   🌐 **Live Demo:** https://weather-forcast-ty7smv688xghdqc3euqnfa.streamlit.app/
+
 
 ### 🎙️ Meeting Summarizer Pro – AI Meeting Assistant
 **Tech:** Python · Streamlit · Google Gemini AI

@@ -42,31 +42,25 @@ Here are the technologies I work with:
 
 ## 📂 Featured Projects
 
-Here are some of the key projects I've built:
-
-### 🔗 LinkPlss – Affiliate Marketing Platform
-**Tech:** PHP · MySQL · PowerBI · HTML/CSS/JS
-A full-stack web application for affiliate marketing with real-time tracking and interactive dashboards for performance analytics.
-*   [GitHub Repository](YOUR_LINKPLSS_GITHUB_URL)
-*   [Live Demo](YOUR_LINKPLSS_DEMO_URL)
-
-### 📊 TrendFeel – Twitter Sentiment Analysis
-**Tech:** Python · Streamlit · Twitter API · NLTK · VADER · WordCloud
-An AI-powered web app that analyzes the sentiment of tweets on a given topic, providing visual insights and a word cloud. Deployed on Streamlit Cloud.
-*   [GitHub Repository](YOUR_TRENDFEEL_GITHUB_URL)
-*   [Live Demo](YOUR_TRENDFEEL_DEMO_URL)
+Here are some of the key projects I've built and deployed:
 
 ### 🥗 NutriScan AI – Food Detection & Nutrition Estimator
 **Tech:** Python · YOLO · Streamlit
-An application that uses computer vision (YOLO) to detect food items from images and estimate their nutritional content.
-*   [GitHub Repository](YOUR_NUTRISCAN_GITHUB_URL)
+An intelligent web application that identifies food from an uploaded image and calculates its nutritional content (calories, protein, carbs, fat) based on user-provided weight.
+*   [GitHub Repository](https://github.com/Srishtikumari510/NutriScan-AI)
 
-### ☁️ AWS Cloud Practitioner Lab
-**Tech:** AWS (EC2, S3, Lambda, IAM)
-A hands-on lab repository demonstrating cloud deployment and architecture using various AWS services.
-*   [GitHub Repository](YOUR_AWS_LAB_GITHUB_URL)
+### 🌧️ Rain_Rain_When_will_u_come – Weather & Activity Predictor
+**Tech:** Python · Machine Learning · Streamlit
+A Gen-Z focused weather prediction app that uses Machine Learning to forecast rain and recommends outfits, music, movies, and activities based on the conditions.
+*   [GitHub Repository](https://github.com/Srishtikumari510/Rain_Rain_When_will_u_come)
 
----
+### 🎙️ Meeting Summarizer Pro – AI Meeting Assistant
+**Tech:** Python · Streamlit · Google Gemini AI
+A powerful web application that transcribes meeting audio or pasted transcripts and generates structured, actionable summaries including key decisions, discussion points, and action items with owners.
+*   [GitHub Repository](https://github.com/Srishtikumari510/meeting-summarizer)
+*   **[Live Demo](https://meetingsummarizerpro.streamlit.app)**
+
+
 
 ## 💼 Experience
 
